@@ -1,9 +1,10 @@
 Git 相关知识
 
 ```
+ssh -T git@github.com
 --首先配置config 
-$ git config --global user.name "your name"
-$ git config --global user.email "your_email@youremail.com"
+git config --global user.name "your name"
+git config --global user.email "your_email@youremail.com"
 ```
 
 ```
