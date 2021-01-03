@@ -1,10 +1,6 @@
-ssh root@121.127.253.96 -i /Users/eddieho/hx_for_hob/ssa/hk666
+# 使用ssh 登陆服务器
 
-ssh root@103.72.4.96 -i /Users/eddieho/hx_for_hob/ssa/gigs_jp
 
-ssh root@206.190.232.205 -p 26838 -i /Users/eddieho/hx_for_hob/ssa/bwg_jp
-
--- 使用ssh 登陆服务器
 
 1.登陆服务器后
 
